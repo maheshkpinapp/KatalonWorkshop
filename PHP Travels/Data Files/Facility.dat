@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Facility</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b99cdb46-a810-45de-b4f3-4551161cd443</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Air+Conditioner</data>
+   <data>Airport+Transport</data>
+   <data>Bar+Lounge</data>
+   <data>Business+Center</data>
+   <data>Elevator</data>
+   <data>Fitness+Center</data>
+   <data>Disabled+Facilities</data>
+   <data>Children+Activites</data>
+   <data>Laundry+Service</data>
+   <data>Pets+Allowed</data>
+   <data>Restaurant</data>
+   <data>SPA</data>
+   <data>Swimming+Pool</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Facility</name>
+      <size>13</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

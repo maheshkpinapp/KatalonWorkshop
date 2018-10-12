@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>570d686c-d6c1-415a-ae0c-84f7cfce8c4e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pace-done&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;social-sidebar&quot;]/div[@class=&quot;social-sidebar-content&quot;]/div[@class=&quot;menu&quot;]/div[@class=&quot;menu-content&quot;]/ul[@id=&quot;social-sidebar-menu&quot;]/li[1]/a[@class=&quot;dash&quot;]/strong[1]</value>
+   </webElementProperties>
+</WebElementEntity>

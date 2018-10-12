@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Scenario 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5b74898-8e53-4932-a543-d831b70da013</testCaseGuid>
+   <variable>
+      <defaultValue>'admin@phptravels.com'</defaultValue>
+      <description></description>
+      <id>491d3897-2e93-4e73-8e67-eb096feb4044</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'demoadmin'</defaultValue>
+      <description></description>
+      <id>07208b4e-8185-4f45-8e86-0b8a0d157672</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nithin'</defaultValue>
+      <description></description>
+      <id>1d6f2766-85de-4a5f-9853-40a88db134b7</id>
+      <masked>false</masked>
+      <name>hotelName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sample Description'</defaultValue>
+      <description></description>
+      <id>a6f9c427-5237-42e4-b344-a4a053511b68</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Beatrice'</defaultValue>
+      <description></description>
+      <id>a016322f-f144-444c-84be-981bbbc5cd1b</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>8faf08ab-8626-4a1c-b804-1a2792805b2e</id>
+      <masked>false</masked>
+      <name>rating</name>
+   </variable>
+   <variable>
+      <defaultValue>'www.phptravels.net/admin'</defaultValue>
+      <description></description>
+      <id>eefa094e-9770-47d0-b904-d7056dba2722</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

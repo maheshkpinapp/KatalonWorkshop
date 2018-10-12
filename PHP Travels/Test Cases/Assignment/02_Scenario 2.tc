@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_Scenario 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc9e8693-ea38-432f-bf72-b805a4fe850a</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.phptravels.net/'</defaultValue>
+      <description></description>
+      <id>30c1a9c8-36b3-4eca-9135-31ef3c136358</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'user@phptravels.com'</defaultValue>
+      <description></description>
+      <id>fff1eccf-d572-4779-b894-9d2fde7c9fe5</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'demouser'</defaultValue>
+      <description></description>
+      <id>6b38d43c-9e34-49b8-aace-b582e7851779</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

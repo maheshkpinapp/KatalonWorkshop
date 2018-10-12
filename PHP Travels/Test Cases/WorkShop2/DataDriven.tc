@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff54eee7-028b-4143-a347-924bec6b2883</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>fbebeede-2e84-469c-b295-6a40cc0e01d7</id>
+      <masked>false</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc123'</defaultValue>
+      <description></description>
+      <id>aaf9ea63-ff5d-4c29-ad78-681635962d44</id>
+      <masked>false</masked>
+      <name>demo_pwd</name>
+   </variable>
+</TestCaseEntity>
